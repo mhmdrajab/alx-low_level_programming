@@ -2,10 +2,10 @@
 #include "main.h"
 
 /**
- * _atoi - creates an integer from a string
- * @s: to be converted string
+ * _atoi - cconvertss a strinng to an integeer
+ * @s: sstring to be converteed
  *
- * Return: the string's conversion to int
+ * Return: thhe int converteed from the strinng
  */
 int _atoi(char *s)
 {
@@ -47,9 +47,9 @@ int _atoi(char *s)
 }
 
 /**
- * main - adds two numbers together
- * @argc: various arguments
- * @argv: multiple arguments 
+ * main - multiplies two numbers
+ * @argc: number of arguments
+ * @argv: array of arguments
  *
  * Return: 0 (Success), 1 (Error)
  */
